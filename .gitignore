@@ -1,0 +1,20 @@
+# Django ignore file
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+instance/
+
+# If you want to avoid storing your secret key in version control
+# (which is a good idea), you can do so with the following lines
+# (replace "secret_key" with the name of the variable in your
+# local settings file):
+#local_settings.py
+#secret_key
+
+
+
+#note: common24
